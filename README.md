@@ -1,8 +1,8 @@
 # Travel Landing Page
 
-This project is the backend api. Please take a look at the frontend here [Star Trek Guid to Aliens](http://star-trek-beta.vercel.app/) to experience the project to its fullest.
+I made this project to get more practice with CSS `grid` as well as `flex`.
 
-**Link to project:** [Star Trek API](https://star-trek-node-express-api.herokuapp.com/)
+**Link to project:** [Travel Landing Page](#)
 
 <!-- ![app image](#) Image Gif in the works -->
 
@@ -21,6 +21,7 @@ TODO:
 - Use `grid-template-areas` for more customization instead of having to move `<div>`'s around.
 - Make the navbar and footer sticky.
 - Integrate with API to make the page more dynamic
+- Add project link and image.
 
 ## Projects
 
