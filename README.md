@@ -14,7 +14,7 @@ I wanted to get in more CSS grid practice. This project has inspiration from air
 
 ## Lessons Learned
 
-When working with this project there is a ton that goes into `grid` as well as `flex`. One of the great things about `grid` is that you are able to quickly scafold your columns and rows.
+When working with this project there is a ton that goes into `grid` as well as `flex`. One of the great things about `grid` is that you are able to quickly scaffold your columns and rows.
 
 TODO:
 
