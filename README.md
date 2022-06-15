@@ -2,7 +2,7 @@
 
 I made this project to get more practice with CSS `grid` as well as `flex`.
 
-**Link to project:** [Travel Landing Page](#)
+**Link to project:** [Travel Landing Page](https://travel-landing-page-omega-vert.vercel.app/)
 
 <!-- ![app image](#) Image Gif in the works -->
 
